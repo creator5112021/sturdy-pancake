@@ -1,0 +1,22 @@
+body{
+    font-family: 'Borel', cursive;
+    background-color: burlywood;
+}
+h1{
+    font-size: 50;
+    color: rgb(151, 96, 25);
+    width: 100%;
+    border-color:  rgb(133, 79, 9);
+    border-style: solid;
+    border-width: 2;
+    padding-top: 30;
+}
+button{
+    background-color: rgb(244, 220, 187);
+    color: rgb(133, 79, 9);
+    border-radius: 10px;
+    border-color: rgb(66, 38, 2);
+    padding-top: 10px;
+    font-size: 20;
+
+}
